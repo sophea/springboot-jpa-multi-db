@@ -1,6 +1,7 @@
 # Introduction
 
-This is project is about building the backend application that uses the spring data JPA in multiple relational databases. In this context, we will connect to SQL Server and MySql databases
+This is project is about building the backend application that uses the spring data JPA in multiple relational databases. In this context, we will connect to SQL Server and MySql databases. Read more in this link :  
+[SpringBoot with spring data JPA using multi-data source databases MySql + SQLServer](https://medium.com/@sopheamak/springboot-with-spring-data-jpa-using-multi-data-source-databases-mysql-sqlserver-3ce5f69559)
 
 # Technologies
 
